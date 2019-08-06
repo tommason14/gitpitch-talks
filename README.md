@@ -1,3 +1,3 @@
 # gitpitch_talks
 
-Hosting talks using [gitpitch](www.gitpitch.com)
+Hosting talks using [gitpitch](http://www.gitpitch.com)
